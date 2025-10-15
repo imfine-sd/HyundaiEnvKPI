@@ -1,0 +1,42 @@
+{
+    "solution1": {
+        "R1_Start": "1-Production",
+        "Q1_Done": {
+            "title": "1-Production",
+            "options" : {
+                "Opt1": "澄んだ空気の中で呼吸できる環境",
+                "Opt2": "捨てられた資源の再発見",
+                "Opt3": "身近でそのまま使える便利さ",
+                "Opt4": "次世代のための持続可能性"
+            }
+        }
+    },
+    "solution2": {
+        "R2_Start": "2-Storage",
+        "Q2_Done": {
+            "title": "2-Storage",
+            "options" : {}
+        }
+    },
+    "solution3": {
+        "R3_Start": "3-Transportation",
+        "Q3_Done": {
+            "title": "3-Transportation",
+            "options" : {
+                "OptO": "O - はい",
+                "OptX": "X - いいえ"
+            }
+        }
+    },
+    "solution4": {
+        "R4_Start": "4-Utilization",
+        "Q4_Done": {
+            "title": "4-Utilization",
+            "options" : {
+                "Opt1": "澄んだ空気の中で呼吸できる環境",
+                "Opt2": "海を進む水素ボート",
+                "Opt3": "空を飛ぶ水素燃料電池航空機"
+            }
+        }
+    }
+}
